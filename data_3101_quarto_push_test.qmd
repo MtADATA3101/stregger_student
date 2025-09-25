@@ -8,6 +8,8 @@ editor: visual
 
 hello, world! this is me making changes that will show students how to push to a remote repository they have write permissions to.
 
+this is my breaking change from class, hi there!
+
 ## Running Code
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
